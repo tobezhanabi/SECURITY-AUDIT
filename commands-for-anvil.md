@@ -14,3 +14,8 @@ To convert bytes to string, use this cast command
 `cast parse-bytes32-string 0x6d7950617373776f726400000000000000000000000000000000000000000014`
 
 where 0x6d7... is the returned bytes
+
+## To count lines of code
+use the command `cloc ./src` to count
+you can usee solidiy metrics to have a better details.
+just right click on the folder and select solidity metricss
