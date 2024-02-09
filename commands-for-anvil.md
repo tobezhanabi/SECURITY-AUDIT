@@ -1,5 +1,5 @@
 # CAST COMMAND, COMMON TO USE
-To access storage of variable we can use `cat storage`, this command help us read from
+To access storage of variable we can use `cast storage`, this command help us read from
 blockchain and shows that because you inserted the word `private` doesn't mean it secure.
 
 Use this command to read state variable
